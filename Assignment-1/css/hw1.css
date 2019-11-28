@@ -1,0 +1,30 @@
+header{
+    background: #94948e;
+}
+h1{
+    color: #ffffff;
+    font-size: 300%;
+    text-align: center;
+    font-variant-caps: all-petite-caps;
+}
+nav{
+    text-align: left;
+    font-size: 100%;
+}
+a{
+    background: #bebeba;
+    color: #000000;
+}
+aside{
+    display: none;
+}
+section{
+    background: #929292;
+    text-align: left;
+    color: #000000;
+}
+h2{
+    color: #080a80;
+    font-size: 300%;
+    font-variant-caps: all-petite-caps;
+}
